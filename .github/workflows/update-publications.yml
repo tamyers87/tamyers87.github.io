@@ -1,0 +1,49 @@
+name: Check for new publications
+
+on:
+  schedule:
+    - cron: "17 8 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check public ORCID record
+        run: python3 scripts/sync_orcid.py
+      - name: Rebuild publication files
+        run: |
+          python3 scripts/build_publications.py
+          python3 scripts/build_exports.py
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Commit publication update
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C automation/publications
+          git add publications.json publications.qmd files/Myers_all_publications.bib files/Myers_all_publications.ris
+          git commit -m "Update publications from ORCID"
+          git push --force origin automation/publications
+      - name: Open review pull request
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing_pr=$(gh pr list --head automation/publications --state open --json number --jq '.[0].number // empty')
+          if [ -z "$existing_pr" ]; then
+            gh pr create --base main --head automation/publications --title "Update publications from ORCID" --body "Adds newly detected DOI works from the public ORCID record and regenerates the publication page, BibTeX, and RIS downloads. Please review metadata and remove any superseded preprint before merging."
+          fi
