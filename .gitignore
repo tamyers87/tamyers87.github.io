@@ -1,0 +1,6 @@
+/.quarto/
+/.sites-runtime/
+/.DS_Store
+/dist/
+
+**/*.quarto_ipynb

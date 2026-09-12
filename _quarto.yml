@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: dist
+  render:
+    - index.qmd
+    - publications.qmd
+    - cv.qmd
+  resources:
+    - assets/
+    - files/
+website:
+  title: Timothy A. Myers
+  site-url: https://tamyers87.github.io
+  description: "Climate scientist at the University of Wyoming studying clouds, climate sensitivity, and the atmospheric boundary layer."
+  image: assets/timothy-myers-square.png
+  image-alt: "Portrait of climate scientist Timothy A. Myers"
+  favicon: assets/timothy-myers-square.png
+  open-graph: true
+  twitter-card:
+    card-style: summary
+  search: false
+  navbar:
+    background: "#0a1217"
+    title: Timothy A. Myers
+    collapse: false
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "Timothy A. Myers · University of Wyoming"
+    right:
+      - text: "tmyers12 [at] uwyo.edu"
+      - text: Scholar
+        href: https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en
+      - text: ORCID
+        href: https://orcid.org/0000-0003-0582-4554
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: false
+    smooth-scroll: true
+    include-in-header: includes/head.html
+lang: en

@@ -1,0 +1,1648 @@
+[
+  {
+    "source_id": "wfip3",
+    "key": "Bodini2026WFIP3EventLog",
+    "kind": "article",
+    "title": "A total of 19 months of daily weather logging on the US east coast: the WFIP3 event log",
+    "authors": [
+      {
+        "family": "Bodini",
+        "given": "Nicola"
+      },
+      {
+        "family": "Olson",
+        "given": "Joseph"
+      },
+      {
+        "family": "Gaudet",
+        "given": "Brian"
+      },
+      {
+        "family": "Iungo",
+        "given": "Giacomo Valerio"
+      },
+      {
+        "family": "Shams Solari",
+        "given": "Mojtaba"
+      },
+      {
+        "family": "Roy",
+        "given": "Sayahnya"
+      },
+      {
+        "family": "Lundquist",
+        "given": "Julie K."
+      },
+      {
+        "family": "Agarwal",
+        "given": "Nathan"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Mirocha",
+        "given": "Jeffrey D."
+      },
+      {
+        "family": "James",
+        "given": "Eric"
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.5194/wes-11-1949-2026",
+    "journal": "Wind Energy Science",
+    "volume": "11",
+    "number": "5",
+    "pages": "1949-1961",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "wfip3_overview",
+    "key": "Kirincich2026WFIP3Overview",
+    "kind": "article",
+    "title": "Improving Process Level Understanding of Boundary Layer Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)",
+    "authors": [
+      {
+        "family": "Kirincich",
+        "given": "A."
+      },
+      {
+        "family": "Krishnamurthy",
+        "given": "R."
+      },
+      {
+        "family": "Turner",
+        "given": "D. D."
+      },
+      {
+        "family": "Adler",
+        "given": "B."
+      },
+      {
+        "family": "Agarwal",
+        "given": "N."
+      },
+      {
+        "family": "Berg",
+        "given": "L. K."
+      },
+      {
+        "family": "Bianco",
+        "given": "L."
+      },
+      {
+        "family": "Bodini",
+        "given": "N."
+      },
+      {
+        "family": "d'Hieres",
+        "given": "M. Chabert"
+      },
+      {
+        "family": "Farrar",
+        "given": "J. T."
+      },
+      {
+        "family": "Fernando",
+        "given": "H. J. S."
+      },
+      {
+        "family": "Gaudet",
+        "given": "B."
+      },
+      {
+        "family": "Ghate",
+        "given": "V. P."
+      },
+      {
+        "family": "Goldberger",
+        "given": "L."
+      },
+      {
+        "family": "Gonzalez",
+        "given": "A. O."
+      },
+      {
+        "family": "Hall",
+        "given": "E."
+      },
+      {
+        "family": "Hines",
+        "given": "E."
+      },
+      {
+        "family": "Hodges",
+        "given": "G."
+      },
+      {
+        "family": "Iungo",
+        "given": "G. V."
+      },
+      {
+        "family": "Jackson",
+        "given": "R."
+      },
+      {
+        "family": "Jiang",
+        "given": "H."
+      },
+      {
+        "family": "Kinsella",
+        "given": "A."
+      },
+      {
+        "family": "Kosovic",
+        "given": "B."
+      },
+      {
+        "family": "Kotamarthi",
+        "given": "R."
+      },
+      {
+        "family": "Letizia",
+        "given": "S."
+      },
+      {
+        "family": "Lipari",
+        "given": "S."
+      },
+      {
+        "family": "Lundquist",
+        "given": "J. K."
+      },
+      {
+        "family": "Mirocha",
+        "given": "J."
+      },
+      {
+        "family": "Moss",
+        "given": "C."
+      },
+      {
+        "family": "Muradyan",
+        "given": "P."
+      },
+      {
+        "family": "Myers",
+        "given": "T."
+      },
+      {
+        "family": "Newsom",
+        "given": "R. K."
+      },
+      {
+        "family": "O'Brien",
+        "given": "J."
+      },
+      {
+        "family": "Olson",
+        "given": "J. B."
+      },
+      {
+        "family": "Pekour",
+        "given": "M."
+      },
+      {
+        "family": "Puccioni",
+        "given": "M."
+      },
+      {
+        "family": "Rosencrans",
+        "given": "D."
+      },
+      {
+        "family": "Roy",
+        "given": "S."
+      },
+      {
+        "family": "Sauvage",
+        "given": "C."
+      },
+      {
+        "family": "Sedlar",
+        "given": "J."
+      },
+      {
+        "family": "Seo",
+        "given": "H."
+      },
+      {
+        "family": "Shams Solari",
+        "given": "M."
+      },
+      {
+        "family": "Soldo",
+        "given": "L."
+      },
+      {
+        "family": "Stierle",
+        "given": "S."
+      },
+      {
+        "family": "Sun",
+        "given": "X."
+      },
+      {
+        "family": "Thompson",
+        "given": "E. J."
+      },
+      {
+        "family": "Traiger",
+        "given": "E."
+      },
+      {
+        "family": "Wharton",
+        "given": "S."
+      },
+      {
+        "family": "Wilczak",
+        "given": "J."
+      },
+      {
+        "family": "Zippel",
+        "given": "S."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.1175/bams-d-25-0201.1",
+    "journal": "Bulletin of the American Meteorological Society",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "article_number": "",
+    "publisher": "American Meteorological Society",
+    "note": "Early online release"
+  },
+  {
+    "source_id": "ccf_ppe",
+    "key": "Myers2026StratocumulusPhysicsPreprint",
+    "kind": "preprint",
+    "title": "Cloud-Controlling Factors Reveal Mean-State Controls and Structural Biases in Earth System Model Stratocumulus Physics",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Aerenson",
+        "given": "Travis"
+      },
+      {
+        "family": "McCoy",
+        "given": "Daniel Thompson"
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Nugent",
+        "given": "Jacqueline M."
+      },
+      {
+        "family": "Brown",
+        "given": "Hunter Y."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.22541/essoar.15006619/v1",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "article_number": "",
+    "publisher": "Wiley",
+    "repository": "ESS Open Archive",
+    "note": "Preprint"
+  },
+  {
+    "source_id": "cv26",
+    "key": "Prabhakaran2026AerosolCloudInteractions",
+    "kind": "article",
+    "title": "Aerosol-cloud interactions in marine low-clouds in a warmer climate",
+    "authors": [
+      {
+        "family": "Prabhakaran",
+        "given": "Prasanth"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "Fabian"
+      },
+      {
+        "family": "Feingold",
+        "given": "Graham"
+      }
+    ],
+    "year": 2026,
+    "doi": "10.5194/acp-26-5151-2026",
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "26",
+    "number": "7",
+    "pages": "5151-5167",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "solar_eclipse",
+    "key": "ShamsSolari2026SolarEclipse",
+    "kind": "article",
+    "title": "Observations of the Marine Atmospheric Boundary Layer's Response to a Solar Eclipse",
+    "authors": [
+      {
+        "family": "Shams Solari",
+        "given": "Mojtaba"
+      },
+      {
+        "family": "Roy",
+        "given": "Sayahnya"
+      },
+      {
+        "family": "Moss",
+        "given": "Coleman"
+      },
+      {
+        "family": "Iungo",
+        "given": "Giacomo Valerio"
+      },
+      {
+        "family": "Lundquist",
+        "given": "Julie K."
+      },
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Bodini",
+        "given": "Nicola"
+      },
+      {
+        "family": "Cinquino",
+        "given": "Eve"
+      },
+      {
+        "family": "Farrar",
+        "given": "J. Thomas"
+      },
+      {
+        "family": "Kirincich",
+        "given": "Anthony"
+      },
+      {
+        "family": "Krishnamurthy",
+        "given": "Raghavendra"
+      },
+      {
+        "family": "Letizia",
+        "given": "Stefano"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy"
+      },
+      {
+        "family": "Muradyan",
+        "given": "Paytsar"
+      },
+      {
+        "family": "Pekour",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Sedlar",
+        "given": "Joseph"
+      },
+      {
+        "family": "Soldo",
+        "given": "Logan"
+      },
+      {
+        "family": "Wilczak",
+        "given": "James"
+      },
+      {
+        "family": "Zippel",
+        "given": "Seth F."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.1007/s10546-026-00973-w",
+    "journal": "Boundary-Layer Meteorology",
+    "volume": "192",
+    "number": "6",
+    "pages": "",
+    "article_number": "32",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "source_id": "cv28",
+    "key": "Tam2026PatternEffectDrivers",
+    "kind": "article",
+    "title": "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty",
+    "authors": [
+      {
+        "family": "Tam",
+        "given": "Rachel Yuen Sum"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Proistosescu",
+        "given": "Cristian"
+      },
+      {
+        "family": "Lin",
+        "given": "Yuan-Jen"
+      },
+      {
+        "family": "Marvel",
+        "given": "Kate"
+      }
+    ],
+    "year": 2026,
+    "doi": "10.5194/acp-26-4289-2026",
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "26",
+    "number": "6",
+    "pages": "4289-4311",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "cv29",
+    "key": "Zelinka2026CloudTrends",
+    "kind": "article",
+    "title": "Recent cloud trends and extremes reaffirm established bounds on cloud feedback and aerosol-cloud interactions",
+    "authors": [
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Qin",
+        "given": "Yi"
+      },
+      {
+        "family": "Chao",
+        "given": "Li-Wei"
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Po-Chedley",
+        "given": "Stephen"
+      },
+      {
+        "family": "Ma",
+        "given": "Po-Lun"
+      },
+      {
+        "family": "Wall",
+        "given": "Casey J."
+      },
+      {
+        "family": "Ceppi",
+        "given": "Paulo"
+      },
+      {
+        "family": "Gettelman",
+        "given": "Andrew"
+      }
+    ],
+    "year": 2026,
+    "doi": "10.1038/s43247-026-03461-8",
+    "journal": "Communications Earth & Environment",
+    "volume": "7",
+    "number": "1",
+    "pages": "",
+    "article_number": "615",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "source_id": "cv27",
+    "key": "Myers2025CHEESEHEAD19Preprint",
+    "kind": "preprint",
+    "title": "Dependence of Boundary Layer Variability and HRRRv4 Model Performance on Cloudiness Over a Mid-latitude Heterogeneous Land Surface: Results from CHEESEHEAD19",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      },
+      {
+        "family": "Butterworth",
+        "given": "Brian J."
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Gristey",
+        "given": "Jake Joseph"
+      },
+      {
+        "family": "Sedlar",
+        "given": "Joseph"
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      }
+    ],
+    "year": 2025,
+    "doi": "10.22541/essoar.175408228.87136314/v1",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "article_number": "",
+    "publisher": "Wiley",
+    "repository": "ESS Open Archive",
+    "note": "Preprint"
+  },
+  {
+    "source_id": "cv25",
+    "key": "Zelinka2025CloudRadiativeKernels",
+    "kind": "article",
+    "title": "Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels",
+    "authors": [
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Chao",
+        "given": "Li-Wei"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Qin",
+        "given": "Yi"
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      }
+    ],
+    "year": 2025,
+    "doi": "10.5194/acp-25-1477-2025",
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "25",
+    "number": "3",
+    "pages": "1477-1495",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "cv24",
+    "key": "Adler2024BoundaryLayerRetrieval",
+    "kind": "article",
+    "title": "Improving solution availability and temporal consistency of an optimal-estimation physical retrieval for ground-based thermodynamic boundary layer profiling",
+    "authors": [
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Djalalova",
+        "given": "Irina V."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy"
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      }
+    ],
+    "year": 2024,
+    "doi": "10.5194/amt-17-6603-2024",
+    "journal": "Atmospheric Measurement Techniques",
+    "volume": "17",
+    "number": "22",
+    "pages": "6603-6624",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "cv21",
+    "key": "Bianco2024ThermodynamicProfiles",
+    "kind": "article",
+    "title": "Sensitivity of thermodynamic profiles retrieved from ground-based microwave and infrared observations to additional input data from active remote sensing instruments and numerical weather prediction models",
+    "authors": [
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Bariteau",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Djalalova",
+        "given": "Irina V."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy"
+      },
+      {
+        "family": "Pezoa",
+        "given": "Sergio"
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      }
+    ],
+    "year": 2024,
+    "doi": "10.5194/amt-17-3933-2024",
+    "journal": "Atmospheric Measurement Techniques",
+    "volume": "17",
+    "number": "13",
+    "pages": "3933-3948",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "cv23",
+    "key": "Ceppi2024LowCloudBias",
+    "kind": "article",
+    "title": "Implications of a Pervasive Climate Model Bias for Low-Cloud Feedback",
+    "authors": [
+      {
+        "family": "Ceppi",
+        "given": "P."
+      },
+      {
+        "family": "Myers",
+        "given": "T. A."
+      },
+      {
+        "family": "Nowack",
+        "given": "P."
+      },
+      {
+        "family": "Wall",
+        "given": "C. J."
+      },
+      {
+        "family": "Zelinka",
+        "given": "M. D."
+      }
+    ],
+    "year": 2024,
+    "doi": "10.1029/2024gl110525",
+    "journal": "Geophysical Research Letters",
+    "volume": "51",
+    "number": "20",
+    "pages": "",
+    "article_number": "e2024GL110525",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv22",
+    "key": "Myers2024NewYorkBight",
+    "kind": "article",
+    "title": "Evaluation of Hub-Height Wind Forecasts Over the New York Bight",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Van Ormer",
+        "given": "Allison"
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      }
+    ],
+    "year": 2024,
+    "doi": "10.1002/we.2936",
+    "journal": "Wind Energy",
+    "volume": "27",
+    "number": "10",
+    "pages": "1063-1073",
+    "article_number": "",
+    "publisher": "Wiley"
+  },
+  {
+    "source_id": "cv19",
+    "key": "Adler2023SnowCover",
+    "kind": "article",
+    "title": "Impact of Seasonal Snow-Cover Change on the Observed and Simulated State of the Atmospheric Boundary Layer in a High-Altitude Mountain Valley",
+    "authors": [
+      {
+        "family": "Adler",
+        "given": "Bianca"
+      },
+      {
+        "family": "Wilczak",
+        "given": "James M."
+      },
+      {
+        "family": "Bianco",
+        "given": "Laura"
+      },
+      {
+        "family": "Bariteau",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Cox",
+        "given": "Christopher J."
+      },
+      {
+        "family": "de Boer",
+        "given": "Gijs"
+      },
+      {
+        "family": "Djalalova",
+        "given": "Irina V."
+      },
+      {
+        "family": "Gallagher",
+        "given": "Michael R."
+      },
+      {
+        "family": "Intrieri",
+        "given": "Janet M."
+      },
+      {
+        "family": "Meyers",
+        "given": "Tilden P."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Olson",
+        "given": "Joseph B."
+      },
+      {
+        "family": "Pezoa",
+        "given": "Sergio"
+      },
+      {
+        "family": "Sedlar",
+        "given": "Joseph"
+      },
+      {
+        "family": "Smith",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Turner",
+        "given": "David D."
+      },
+      {
+        "family": "White",
+        "given": "Allen B."
+      }
+    ],
+    "year": 2023,
+    "doi": "10.1029/2023jd038497",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "128",
+    "number": "12",
+    "pages": "",
+    "article_number": "e2023JD038497",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv20",
+    "key": "Andersen2023CloudRadiativeEffects",
+    "kind": "article",
+    "title": "Sensitivities of cloud radiative effects to large-scale meteorology and aerosols from global observations",
+    "authors": [
+      {
+        "family": "Andersen",
+        "given": "Hendrik"
+      },
+      {
+        "family": "Cermak",
+        "given": "Jan"
+      },
+      {
+        "family": "Douglas",
+        "given": "Alyson"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Nowack",
+        "given": "Peer"
+      },
+      {
+        "family": "Stier",
+        "given": "Philip"
+      },
+      {
+        "family": "Wall",
+        "given": "Casey J."
+      },
+      {
+        "family": "Wilson Kemsley",
+        "given": "Sarah"
+      }
+    ],
+    "year": 2023,
+    "doi": "10.5194/acp-23-10775-2023",
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "23",
+    "number": "18",
+    "pages": "10775-10794",
+    "article_number": "",
+    "publisher": "Copernicus GmbH"
+  },
+  {
+    "source_id": "cv18",
+    "key": "Myers2023PatternEffect",
+    "kind": "article",
+    "title": "Observational Constraints on the Cloud Feedback Pattern Effect",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      }
+    ],
+    "year": 2023,
+    "doi": "10.1175/jcli-d-22-0862.1",
+    "journal": "Journal of Climate",
+    "volume": "36",
+    "number": "18",
+    "pages": "6533-6545",
+    "article_number": "",
+    "publisher": "American Meteorological Society"
+  },
+  {
+    "source_id": "chapter_clouds",
+    "key": "Myers2023TropicalMarineLowClouds",
+    "kind": "chapter",
+    "title": "Tropical Marine Low Clouds: Feedbacks to Warming and on Climate Variability",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Vogel",
+        "given": "Raphaela"
+      },
+      {
+        "family": "Brient",
+        "given": "Florent"
+      },
+      {
+        "family": "Parishani",
+        "given": "Hossein"
+      },
+      {
+        "family": "Scott",
+        "given": "Ryan C."
+      }
+    ],
+    "year": 2023,
+    "doi": "10.1002/9781119700357.ch7",
+    "journal": "Geophysical Monograph Series",
+    "volume": "",
+    "number": "",
+    "pages": "159-177",
+    "article_number": "",
+    "publisher": "Wiley",
+    "booktitle": "Clouds and Their Climatic Impacts: Radiation, Circulation, and Precipitation",
+    "editors": [
+      {
+        "family": "Sullivan",
+        "given": "Sylvia C."
+      },
+      {
+        "family": "Hoose",
+        "given": "Corinna"
+      }
+    ],
+    "chapter": "7",
+    "series": "Geophysical Monograph Series"
+  },
+  {
+    "source_id": "cv15",
+    "key": "Andersen2022NortheastPacific",
+    "kind": "article",
+    "title": "Attribution of Observed Recent Decrease in Low Clouds Over the Northeastern Pacific to Cloud-Controlling Factors",
+    "authors": [
+      {
+        "family": "Andersen",
+        "given": "Hendrik"
+      },
+      {
+        "family": "Cermak",
+        "given": "Jan"
+      },
+      {
+        "family": "Zipfel",
+        "given": "Lukas"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2022,
+    "doi": "10.1029/2021gl096498",
+    "journal": "Geophysical Research Letters",
+    "volume": "49",
+    "number": "3",
+    "pages": "",
+    "article_number": "e2021GL096498",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv17",
+    "key": "Lutsko2022AdjustmentsFeedbacks",
+    "kind": "article",
+    "title": "Correlation Between Cloud Adjustments and Cloud Feedbacks Responsible for Larger Range of Climate Sensitivities in CMIP6",
+    "authors": [
+      {
+        "family": "Lutsko",
+        "given": "Nicholas J."
+      },
+      {
+        "family": "Luongo",
+        "given": "Matthew T."
+      },
+      {
+        "family": "Wall",
+        "given": "Casey J."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2022,
+    "doi": "10.1029/2022jd037486",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "127",
+    "number": "23",
+    "pages": "",
+    "article_number": "e2022JD037486",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv16",
+    "key": "McCoy2022ExtratropicalFeedbacks",
+    "kind": "article",
+    "title": "Extratropical Shortwave Cloud Feedbacks in the Context of the Global Circulation and Hydrological Cycle",
+    "authors": [
+      {
+        "family": "McCoy",
+        "given": "Daniel T."
+      },
+      {
+        "family": "Field",
+        "given": "Paul"
+      },
+      {
+        "family": "Frazer",
+        "given": "Michelle E."
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Elsaesser",
+        "given": "Gregory S."
+      },
+      {
+        "family": "Mülmenstädt",
+        "given": "Johannes"
+      },
+      {
+        "family": "Tan",
+        "given": "Ivy"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Lebo",
+        "given": "Zachary J."
+      }
+    ],
+    "year": 2022,
+    "doi": "10.1029/2021gl097154",
+    "journal": "Geophysical Research Letters",
+    "volume": "49",
+    "number": "8",
+    "pages": "",
+    "article_number": "e2021GL097154",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv14",
+    "key": "Zelinka2022ExpertJudgment",
+    "kind": "article",
+    "title": "Evaluating Climate Models' Cloud Feedbacks Against Expert Judgment",
+    "authors": [
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Qin",
+        "given": "Yi"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2022,
+    "doi": "10.1029/2021jd035198",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "127",
+    "number": "2",
+    "pages": "",
+    "article_number": "e2021JD035198",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv13",
+    "key": "Myers2021LowCloudFeedback",
+    "kind": "article",
+    "title": "Observational constraints on low cloud feedback reduce uncertainty of climate sensitivity",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Scott",
+        "given": "Ryan C."
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      },
+      {
+        "family": "Caldwell",
+        "given": "Peter M."
+      }
+    ],
+    "year": 2021,
+    "doi": "10.1038/s41558-021-01039-0",
+    "journal": "Nature Climate Change",
+    "volume": "11",
+    "number": "6",
+    "pages": "501-507",
+    "article_number": "",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "source_id": "chapter_ocean",
+    "key": "Chang2020AtmosphereOceanInteractions",
+    "kind": "chapter",
+    "title": "Atmosphere-Ocean Interactions",
+    "authors": [
+      {
+        "family": "Chang",
+        "given": "Ping"
+      },
+      {
+        "family": "Richter",
+        "given": "Ingo"
+      },
+      {
+        "family": "Dijkstra",
+        "given": "Henk"
+      },
+      {
+        "family": "Wieners",
+        "given": "Claudia"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2020,
+    "doi": "10.1017/9781108610995.004",
+    "journal": "Interacting Climates of Ocean Basins",
+    "volume": "",
+    "number": "",
+    "pages": "89-119",
+    "article_number": "",
+    "publisher": "Cambridge University Press",
+    "booktitle": "Interacting Climates of Ocean Basins: Observations, Mechanisms, Predictability, and Impacts",
+    "editors": [
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      }
+    ],
+    "chapter": "3"
+  },
+  {
+    "source_id": "cv11",
+    "key": "Myers2020OceanBasinVariability",
+    "kind": "article",
+    "title": "Relative Contributions of Atmospheric, Oceanic, and Coupled Processes to North Pacific and North Atlantic Variability",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      }
+    ],
+    "year": 2020,
+    "doi": "10.1029/2019gl086321",
+    "journal": "Geophysical Research Letters",
+    "volume": "47",
+    "number": "5",
+    "pages": "",
+    "article_number": "e2019GL086321",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv12",
+    "key": "Scott2020CloudRadiativeSensitivity",
+    "kind": "article",
+    "title": "Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans",
+    "authors": [
+      {
+        "family": "Scott",
+        "given": "Ryan C."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Sun",
+        "given": "Moguo"
+      },
+      {
+        "family": "Doelling",
+        "given": "David R."
+      }
+    ],
+    "year": 2020,
+    "doi": "10.1175/jcli-d-19-1028.1",
+    "journal": "Journal of Climate",
+    "volume": "33",
+    "number": "18",
+    "pages": "7717-7734",
+    "article_number": "",
+    "publisher": "American Meteorological Society"
+  },
+  {
+    "source_id": "cv10",
+    "key": "Zelinka2020CMIP6Sensitivity",
+    "kind": "article",
+    "title": "Causes of Higher Climate Sensitivity in CMIP6 Models",
+    "authors": [
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "McCoy",
+        "given": "Daniel T."
+      },
+      {
+        "family": "Po-Chedley",
+        "given": "Stephen"
+      },
+      {
+        "family": "Caldwell",
+        "given": "Peter M."
+      },
+      {
+        "family": "Ceppi",
+        "given": "Paulo"
+      },
+      {
+        "family": "Klein",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Taylor",
+        "given": "Karl E."
+      }
+    ],
+    "year": 2020,
+    "doi": "10.1029/2019gl085782",
+    "journal": "Geophysical Research Letters",
+    "volume": "47",
+    "number": "1",
+    "pages": "",
+    "article_number": "e2019GL085782",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv09",
+    "key": "Rehbein2019GoAmazon",
+    "kind": "article",
+    "title": "Mesoscale convective systems over the Amazon basin: The GoAmazon2014/5 program",
+    "authors": [
+      {
+        "family": "Rehbein",
+        "given": "Amanda"
+      },
+      {
+        "family": "Ambrizzi",
+        "given": "Tercio"
+      },
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      },
+      {
+        "family": "Espinosa",
+        "given": "Sergio A. I."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2019,
+    "doi": "10.1002/joc.6173",
+    "journal": "International Journal of Climatology",
+    "volume": "39",
+    "number": "15",
+    "pages": "5599-5618",
+    "article_number": "",
+    "publisher": "Wiley"
+  },
+  {
+    "source_id": "cv08",
+    "key": "Myers2018MarineHeatwave",
+    "kind": "article",
+    "title": "Cloud Feedback Key to Marine Heatwave off Baja California",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      },
+      {
+        "family": "Cesana",
+        "given": "Gregory V."
+      },
+      {
+        "family": "DeFlorio",
+        "given": "Michael J."
+      },
+      {
+        "family": "Waliser",
+        "given": "Duane E."
+      }
+    ],
+    "year": 2018,
+    "doi": "10.1029/2018gl078242",
+    "journal": "Geophysical Research Letters",
+    "volume": "45",
+    "number": "9",
+    "pages": "4345-4352",
+    "article_number": "",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv06",
+    "key": "Myers2018CloudSSTCoupling",
+    "kind": "article",
+    "title": "Coupling between marine boundary layer clouds and summer-to-summer sea surface temperature variability over the North Atlantic and Pacific",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      },
+      {
+        "family": "DeFlorio",
+        "given": "Michael J."
+      }
+    ],
+    "year": 2018,
+    "doi": "10.1007/s00382-017-3651-8",
+    "journal": "Climate Dynamics",
+    "volume": "50",
+    "number": "3-4",
+    "pages": "955-969",
+    "article_number": "",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "source_id": "cv07",
+    "key": "Myers2018AtlanticVariability",
+    "kind": "article",
+    "title": "Importance of positive cloud feedback for tropical Atlantic interhemispheric climate variability",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      },
+      {
+        "family": "DeFlorio",
+        "given": "Michael J."
+      }
+    ],
+    "year": 2018,
+    "doi": "10.1007/s00382-017-3978-1",
+    "journal": "Climate Dynamics",
+    "volume": "51",
+    "number": "5-6",
+    "pages": "1707-1717",
+    "article_number": "",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "source_id": "cv05",
+    "key": "Mechoso2016SouthernOcean",
+    "kind": "article",
+    "title": "Can reducing the incoming energy flux over the Southern Ocean in a CGCM improve its simulation of tropical climate?",
+    "authors": [
+      {
+        "family": "Mechoso",
+        "given": "Carlos R."
+      },
+      {
+        "family": "Losada",
+        "given": "Teresa"
+      },
+      {
+        "family": "Koseki",
+        "given": "Shunya"
+      },
+      {
+        "family": "Mohino-Harris",
+        "given": "Elsa"
+      },
+      {
+        "family": "Keenlyside",
+        "given": "Noel"
+      },
+      {
+        "family": "Castaño-Tierno",
+        "given": "Antonio"
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Rodriguez-Fonseca",
+        "given": "Belen"
+      },
+      {
+        "family": "Toniazzo",
+        "given": "Thomas"
+      }
+    ],
+    "year": 2016,
+    "doi": "10.1002/2016gl071150",
+    "journal": "Geophysical Research Letters",
+    "volume": "43",
+    "number": "20",
+    "pages": "11057-11063",
+    "article_number": "",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv04",
+    "key": "Myers2016CloudFeedbackUncertainty",
+    "kind": "article",
+    "title": "Reducing the uncertainty in subtropical cloud feedback",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      }
+    ],
+    "year": 2016,
+    "doi": "10.1002/2015gl067416",
+    "journal": "Geophysical Research Letters",
+    "volume": "43",
+    "number": "5",
+    "pages": "2144-2148",
+    "article_number": "",
+    "publisher": "American Geophysical Union (AGU)"
+  },
+  {
+    "source_id": "cv02",
+    "key": "Myers2015CloudMeteorology",
+    "kind": "article",
+    "title": "On the Relationships between Subtropical Clouds and Meteorology in Observations and CMIP3 and CMIP5 Models",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      }
+    ],
+    "year": 2015,
+    "doi": "10.1175/jcli-d-14-00475.1",
+    "journal": "Journal of Climate",
+    "volume": "28",
+    "number": "8",
+    "pages": "2945-2967",
+    "article_number": "",
+    "publisher": "American Meteorological Society"
+  },
+  {
+    "source_id": "cv03",
+    "key": "Seethala2015StratocumulusChanges",
+    "kind": "article",
+    "title": "How Has Subtropical Stratocumulus and Associated Meteorology Changed since the 1980s?",
+    "authors": [
+      {
+        "family": "Seethala",
+        "given": "C."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      },
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      }
+    ],
+    "year": 2015,
+    "doi": "10.1175/jcli-d-15-0120.1",
+    "journal": "Journal of Climate",
+    "volume": "28",
+    "number": "21",
+    "pages": "8396-8410",
+    "article_number": "",
+    "publisher": "American Meteorological Society"
+  },
+  {
+    "source_id": "cv01",
+    "key": "Myers2013Subsidence",
+    "kind": "article",
+    "title": "Observational Evidence That Enhanced Subsidence Reduces Subtropical Marine Boundary Layer Cloudiness",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Norris",
+        "given": "Joel R."
+      }
+    ],
+    "year": 2013,
+    "doi": "10.1175/jcli-d-12-00736.1",
+    "journal": "Journal of Climate",
+    "volume": "26",
+    "number": "19",
+    "pages": "7507-7524",
+    "article_number": "",
+    "publisher": "American Meteorological Society"
+  }
+]

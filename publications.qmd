@@ -1,0 +1,405 @@
+---
+title: Publications
+description: "Journal articles, book chapters, and preprints by Timothy A. Myers."
+---
+
+::: {.publication-intro}
+31 journal articles · 2 book chapters · 2 preprints
+
+[Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [BibTeX](files/Myers_all_publications.bib) · [RIS](files/Myers_all_publications.ris)
+
+[Journal articles](#journal-articles) · [Book chapters](#book-chapters) · [Preprints](#preprints)
+:::
+
+
+## Journal articles {#journal-articles}
+
+
+### 2026 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Bodini2026WFIP3EventLog">
+<h3><a href="https://doi.org/10.5194/wes-11-1949-2026">A total of 19 months of daily weather logging on the US east coast: the WFIP3 event log</a></h3>
+<p class="pub-authors">N. Bodini, J. Olson, B. Gaudet, G. V. Iungo, M. Shams Solari, S. Roy, J. K. Lundquist, N. Agarwal, <strong>T. A. Myers</strong>, B. Adler, J. D. Mirocha, E. James, L. Bianco, J. M. Wilczak, D. D. Turner (2026).</p>
+<p class="pub-venue"><em>Wind Energy Science</em>, <strong>11</strong>(5), 1949–1961.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/wes-11-1949-2026">doi:10.5194/wes-11-1949-2026</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Kirincich2026WFIP3Overview">
+<h3><a href="https://doi.org/10.1175/bams-d-25-0201.1">Improving Process Level Understanding of Boundary Layer Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)</a></h3>
+<p class="pub-authors">A. Kirincich, R. Krishnamurthy, D. D. Turner, B. Adler, N. Agarwal, L. K. Berg, L. Bianco, N. Bodini, M. C. d&#x27;Hieres, J. T. Farrar, H. J. S. Fernando, B. Gaudet, V. P. Ghate, L. Goldberger, A. O. Gonzalez, E. Hall, E. Hines, G. Hodges, G. V. Iungo, R. Jackson, H. Jiang, A. Kinsella, B. Kosovic, R. Kotamarthi, S. Letizia, S. Lipari, J. K. Lundquist, J. Mirocha, C. Moss, P. Muradyan, <strong>T. Myers</strong>, R. K. Newsom, J. O&#x27;Brien, J. B. Olson, M. Pekour, M. Puccioni, D. Rosencrans, S. Roy, C. Sauvage, J. Sedlar, H. Seo, M. Shams Solari, L. Soldo, S. Stierle, X. Sun, E. J. Thompson, E. Traiger, S. Wharton, J. Wilczak, S. Zippel (2026).</p>
+<p class="pub-venue"><em>Bulletin of the American Meteorological Society</em> · Early online release.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/bams-d-25-0201.1">doi:10.1175/bams-d-25-0201.1</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Prabhakaran2026AerosolCloudInteractions">
+<h3><a href="https://doi.org/10.5194/acp-26-5151-2026">Aerosol-cloud interactions in marine low-clouds in a warmer climate</a></h3>
+<p class="pub-authors">P. Prabhakaran, <strong>T. A. Myers</strong>, F. Hoffmann, G. Feingold (2026).</p>
+<p class="pub-venue"><em>Atmospheric Chemistry and Physics</em>, <strong>26</strong>(7), 5151–5167.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/acp-26-5151-2026">doi:10.5194/acp-26-5151-2026</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="ShamsSolari2026SolarEclipse">
+<h3><a href="https://doi.org/10.1007/s10546-026-00973-w">Observations of the Marine Atmospheric Boundary Layer&#x27;s Response to a Solar Eclipse</a></h3>
+<p class="pub-authors">M. Shams Solari, S. Roy, C. Moss, G. V. Iungo, J. K. Lundquist, B. Adler, L. Bianco, N. Bodini, E. Cinquino, J. T. Farrar, A. Kirincich, R. Krishnamurthy, S. Letizia, <strong>T. Myers</strong>, P. Muradyan, M. Pekour, J. Sedlar, L. Soldo, J. Wilczak, S. F. Zippel (2026).</p>
+<p class="pub-venue"><em>Boundary-Layer Meteorology</em>, <strong>192</strong>(6), 32.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1007/s10546-026-00973-w">doi:10.1007/s10546-026-00973-w</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Tam2026PatternEffectDrivers">
+<h3><a href="https://doi.org/10.5194/acp-26-4289-2026">Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty</a></h3>
+<p class="pub-authors">R. Y. S. Tam, <strong>T. A. Myers</strong>, M. D. Zelinka, C. Proistosescu, Y.-J. Lin, K. Marvel (2026).</p>
+<p class="pub-venue"><em>Atmospheric Chemistry and Physics</em>, <strong>26</strong>(6), 4289–4311.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/acp-26-4289-2026">doi:10.5194/acp-26-4289-2026</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Zelinka2026CloudTrends">
+<h3><a href="https://doi.org/10.1038/s43247-026-03461-8">Recent cloud trends and extremes reaffirm established bounds on cloud feedback and aerosol-cloud interactions</a></h3>
+<p class="pub-authors">M. D. Zelinka, <strong>T. A. Myers</strong>, Y. Qin, L.-W. Chao, S. A. Klein, S. Po-Chedley, P.-L. Ma, C. J. Wall, P. Ceppi, A. Gettelman (2026).</p>
+<p class="pub-venue"><em>Communications Earth &amp; Environment</em>, <strong>7</strong>(1), 615.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1038/s43247-026-03461-8">doi:10.1038/s43247-026-03461-8</a></p>
+</article>
+```
+
+
+### 2025 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Zelinka2025CloudRadiativeKernels">
+<h3><a href="https://doi.org/10.5194/acp-25-1477-2025">Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels</a></h3>
+<p class="pub-authors">M. D. Zelinka, L.-W. Chao, <strong>T. A. Myers</strong>, Y. Qin, S. A. Klein (2025).</p>
+<p class="pub-venue"><em>Atmospheric Chemistry and Physics</em>, <strong>25</strong>(3), 1477–1495.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/acp-25-1477-2025">doi:10.5194/acp-25-1477-2025</a></p>
+</article>
+```
+
+
+### 2024 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Adler2024BoundaryLayerRetrieval">
+<h3><a href="https://doi.org/10.5194/amt-17-6603-2024">Improving solution availability and temporal consistency of an optimal-estimation physical retrieval for ground-based thermodynamic boundary layer profiling</a></h3>
+<p class="pub-authors">B. Adler, D. D. Turner, L. Bianco, I. V. Djalalova, <strong>T. Myers</strong>, J. M. Wilczak (2024).</p>
+<p class="pub-venue"><em>Atmospheric Measurement Techniques</em>, <strong>17</strong>(22), 6603–6624.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/amt-17-6603-2024">doi:10.5194/amt-17-6603-2024</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Bianco2024ThermodynamicProfiles">
+<h3><a href="https://doi.org/10.5194/amt-17-3933-2024">Sensitivity of thermodynamic profiles retrieved from ground-based microwave and infrared observations to additional input data from active remote sensing instruments and numerical weather prediction models</a></h3>
+<p class="pub-authors">L. Bianco, B. Adler, L. Bariteau, I. V. Djalalova, <strong>T. Myers</strong>, S. Pezoa, D. D. Turner, J. M. Wilczak (2024).</p>
+<p class="pub-venue"><em>Atmospheric Measurement Techniques</em>, <strong>17</strong>(13), 3933–3948.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/amt-17-3933-2024">doi:10.5194/amt-17-3933-2024</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Ceppi2024LowCloudBias">
+<h3><a href="https://doi.org/10.1029/2024gl110525">Implications of a Pervasive Climate Model Bias for Low-Cloud Feedback</a></h3>
+<p class="pub-authors">P. Ceppi, <strong>T. A. Myers</strong>, P. Nowack, C. J. Wall, M. D. Zelinka (2024).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>51</strong>(20), e2024GL110525.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2024gl110525">doi:10.1029/2024gl110525</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2024NewYorkBight">
+<h3><a href="https://doi.org/10.1002/we.2936">Evaluation of Hub-Height Wind Forecasts Over the New York Bight</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, A. Van Ormer, D. D. Turner, J. M. Wilczak, L. Bianco, B. Adler (2024).</p>
+<p class="pub-venue"><em>Wind Energy</em>, <strong>27</strong>(10), 1063–1073.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/we.2936">doi:10.1002/we.2936</a></p>
+</article>
+```
+
+
+### 2023 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Adler2023SnowCover">
+<h3><a href="https://doi.org/10.1029/2023jd038497">Impact of Seasonal Snow-Cover Change on the Observed and Simulated State of the Atmospheric Boundary Layer in a High-Altitude Mountain Valley</a></h3>
+<p class="pub-authors">B. Adler, J. M. Wilczak, L. Bianco, L. Bariteau, C. J. Cox, G. de Boer, I. V. Djalalova, M. R. Gallagher, J. M. Intrieri, T. P. Meyers, <strong>T. A. Myers</strong>, J. B. Olson, S. Pezoa, J. Sedlar, E. Smith, D. D. Turner, A. B. White (2023).</p>
+<p class="pub-venue"><em>Journal of Geophysical Research: Atmospheres</em>, <strong>128</strong>(12), e2023JD038497.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2023jd038497">doi:10.1029/2023jd038497</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Andersen2023CloudRadiativeEffects">
+<h3><a href="https://doi.org/10.5194/acp-23-10775-2023">Sensitivities of cloud radiative effects to large-scale meteorology and aerosols from global observations</a></h3>
+<p class="pub-authors">H. Andersen, J. Cermak, A. Douglas, <strong>T. A. Myers</strong>, P. Nowack, P. Stier, C. J. Wall, S. Wilson Kemsley (2023).</p>
+<p class="pub-venue"><em>Atmospheric Chemistry and Physics</em>, <strong>23</strong>(18), 10775–10794.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5194/acp-23-10775-2023">doi:10.5194/acp-23-10775-2023</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2023PatternEffect">
+<h3><a href="https://doi.org/10.1175/jcli-d-22-0862.1">Observational Constraints on the Cloud Feedback Pattern Effect</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, M. D. Zelinka, S. A. Klein (2023).</p>
+<p class="pub-venue"><em>Journal of Climate</em>, <strong>36</strong>(18), 6533–6545.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/jcli-d-22-0862.1">doi:10.1175/jcli-d-22-0862.1</a></p>
+</article>
+```
+
+
+### 2022 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Andersen2022NortheastPacific">
+<h3><a href="https://doi.org/10.1029/2021gl096498">Attribution of Observed Recent Decrease in Low Clouds Over the Northeastern Pacific to Cloud-Controlling Factors</a></h3>
+<p class="pub-authors">H. Andersen, J. Cermak, L. Zipfel, <strong>T. A. Myers</strong> (2022).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>49</strong>(3), e2021GL096498.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2021gl096498">doi:10.1029/2021gl096498</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Lutsko2022AdjustmentsFeedbacks">
+<h3><a href="https://doi.org/10.1029/2022jd037486">Correlation Between Cloud Adjustments and Cloud Feedbacks Responsible for Larger Range of Climate Sensitivities in CMIP6</a></h3>
+<p class="pub-authors">N. J. Lutsko, M. T. Luongo, C. J. Wall, <strong>T. A. Myers</strong> (2022).</p>
+<p class="pub-venue"><em>Journal of Geophysical Research: Atmospheres</em>, <strong>127</strong>(23), e2022JD037486.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2022jd037486">doi:10.1029/2022jd037486</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="McCoy2022ExtratropicalFeedbacks">
+<h3><a href="https://doi.org/10.1029/2021gl097154">Extratropical Shortwave Cloud Feedbacks in the Context of the Global Circulation and Hydrological Cycle</a></h3>
+<p class="pub-authors">D. T. McCoy, P. Field, M. E. Frazer, M. D. Zelinka, G. S. Elsaesser, J. Mülmenstädt, I. Tan, <strong>T. A. Myers</strong>, Z. J. Lebo (2022).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>49</strong>(8), e2021GL097154.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2021gl097154">doi:10.1029/2021gl097154</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Zelinka2022ExpertJudgment">
+<h3><a href="https://doi.org/10.1029/2021jd035198">Evaluating Climate Models&#x27; Cloud Feedbacks Against Expert Judgment</a></h3>
+<p class="pub-authors">M. D. Zelinka, S. A. Klein, Y. Qin, <strong>T. A. Myers</strong> (2022).</p>
+<p class="pub-venue"><em>Journal of Geophysical Research: Atmospheres</em>, <strong>127</strong>(2), e2021JD035198.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2021jd035198">doi:10.1029/2021jd035198</a></p>
+</article>
+```
+
+
+### 2021 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Myers2021LowCloudFeedback">
+<h3><a href="https://doi.org/10.1038/s41558-021-01039-0">Observational constraints on low cloud feedback reduce uncertainty of climate sensitivity</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, R. C. Scott, M. D. Zelinka, S. A. Klein, J. R. Norris, P. M. Caldwell (2021).</p>
+<p class="pub-venue"><em>Nature Climate Change</em>, <strong>11</strong>(6), 501–507.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1038/s41558-021-01039-0">doi:10.1038/s41558-021-01039-0</a></p>
+</article>
+```
+
+
+### 2020 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Myers2020OceanBasinVariability">
+<h3><a href="https://doi.org/10.1029/2019gl086321">Relative Contributions of Atmospheric, Oceanic, and Coupled Processes to North Pacific and North Atlantic Variability</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, C. R. Mechoso (2020).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>47</strong>(5), e2019GL086321.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2019gl086321">doi:10.1029/2019gl086321</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Scott2020CloudRadiativeSensitivity">
+<h3><a href="https://doi.org/10.1175/jcli-d-19-1028.1">Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans</a></h3>
+<p class="pub-authors">R. C. Scott, <strong>T. A. Myers</strong>, J. R. Norris, M. D. Zelinka, S. A. Klein, M. Sun, D. R. Doelling (2020).</p>
+<p class="pub-venue"><em>Journal of Climate</em>, <strong>33</strong>(18), 7717–7734.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/jcli-d-19-1028.1">doi:10.1175/jcli-d-19-1028.1</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Zelinka2020CMIP6Sensitivity">
+<h3><a href="https://doi.org/10.1029/2019gl085782">Causes of Higher Climate Sensitivity in CMIP6 Models</a></h3>
+<p class="pub-authors">M. D. Zelinka, <strong>T. A. Myers</strong>, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, K. E. Taylor (2020).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>47</strong>(1), e2019GL085782.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2019gl085782">doi:10.1029/2019gl085782</a></p>
+</article>
+```
+
+
+### 2019 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Rehbein2019GoAmazon">
+<h3><a href="https://doi.org/10.1002/joc.6173">Mesoscale convective systems over the Amazon basin: The GoAmazon2014/5 program</a></h3>
+<p class="pub-authors">A. Rehbein, T. Ambrizzi, C. R. Mechoso, S. A. I. Espinosa, <strong>T. A. Myers</strong> (2019).</p>
+<p class="pub-venue"><em>International Journal of Climatology</em>, <strong>39</strong>(15), 5599–5618.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/joc.6173">doi:10.1002/joc.6173</a></p>
+</article>
+```
+
+
+### 2018 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Myers2018MarineHeatwave">
+<h3><a href="https://doi.org/10.1029/2018gl078242">Cloud Feedback Key to Marine Heatwave off Baja California</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, C. R. Mechoso, G. V. Cesana, M. J. DeFlorio, D. E. Waliser (2018).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>45</strong>(9), 4345–4352.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2018gl078242">doi:10.1029/2018gl078242</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2018CloudSSTCoupling">
+<h3><a href="https://doi.org/10.1007/s00382-017-3651-8">Coupling between marine boundary layer clouds and summer-to-summer sea surface temperature variability over the North Atlantic and Pacific</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, C. R. Mechoso, M. J. DeFlorio (2018).</p>
+<p class="pub-venue"><em>Climate Dynamics</em>, <strong>50</strong>(3-4), 955–969.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1007/s00382-017-3651-8">doi:10.1007/s00382-017-3651-8</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2018AtlanticVariability">
+<h3><a href="https://doi.org/10.1007/s00382-017-3978-1">Importance of positive cloud feedback for tropical Atlantic interhemispheric climate variability</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, C. R. Mechoso, M. J. DeFlorio (2018).</p>
+<p class="pub-venue"><em>Climate Dynamics</em>, <strong>51</strong>(5-6), 1707–1717.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1007/s00382-017-3978-1">doi:10.1007/s00382-017-3978-1</a></p>
+</article>
+```
+
+
+### 2016 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Mechoso2016SouthernOcean">
+<h3><a href="https://doi.org/10.1002/2016gl071150">Can reducing the incoming energy flux over the Southern Ocean in a CGCM improve its simulation of tropical climate?</a></h3>
+<p class="pub-authors">C. R. Mechoso, T. Losada, S. Koseki, E. Mohino-Harris, N. Keenlyside, A. Castaño-Tierno, <strong>T. A. Myers</strong>, B. Rodriguez-Fonseca, T. Toniazzo (2016).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>43</strong>(20), 11057–11063.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/2016gl071150">doi:10.1002/2016gl071150</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2016CloudFeedbackUncertainty">
+<h3><a href="https://doi.org/10.1002/2015gl067416">Reducing the uncertainty in subtropical cloud feedback</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, J. R. Norris (2016).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>43</strong>(5), 2144–2148.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/2015gl067416">doi:10.1002/2015gl067416</a></p>
+</article>
+```
+
+
+### 2015 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Myers2015CloudMeteorology">
+<h3><a href="https://doi.org/10.1175/jcli-d-14-00475.1">On the Relationships between Subtropical Clouds and Meteorology in Observations and CMIP3 and CMIP5 Models</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, J. R. Norris (2015).</p>
+<p class="pub-venue"><em>Journal of Climate</em>, <strong>28</strong>(8), 2945–2967.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/jcli-d-14-00475.1">doi:10.1175/jcli-d-14-00475.1</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Seethala2015StratocumulusChanges">
+<h3><a href="https://doi.org/10.1175/jcli-d-15-0120.1">How Has Subtropical Stratocumulus and Associated Meteorology Changed since the 1980s?</a></h3>
+<p class="pub-authors">C. Seethala, J. R. Norris, <strong>T. A. Myers</strong> (2015).</p>
+<p class="pub-venue"><em>Journal of Climate</em>, <strong>28</strong>(21), 8396–8410.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/jcli-d-15-0120.1">doi:10.1175/jcli-d-15-0120.1</a></p>
+</article>
+```
+
+
+### 2013 {.publication-year}
+
+
+```{=html}
+<article class="publication" id="Myers2013Subsidence">
+<h3><a href="https://doi.org/10.1175/jcli-d-12-00736.1">Observational Evidence That Enhanced Subsidence Reduces Subtropical Marine Boundary Layer Cloudiness</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, J. R. Norris (2013).</p>
+<p class="pub-venue"><em>Journal of Climate</em>, <strong>26</strong>(19), 7507–7524.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1175/jcli-d-12-00736.1">doi:10.1175/jcli-d-12-00736.1</a></p>
+</article>
+```
+
+## Book chapters {#book-chapters}
+
+
+```{=html}
+<article class="publication" id="Myers2023TropicalMarineLowClouds">
+<h3><a href="https://doi.org/10.1002/9781119700357.ch7">Tropical Marine Low Clouds: Feedbacks to Warming and on Climate Variability</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, R. Vogel, F. Brient, H. Parishani, R. C. Scott (2023).</p>
+<p class="pub-venue">In S. C. Sullivan, C. Hoose (eds.), <em>Clouds and Their Climatic Impacts: Radiation, Circulation, and Precipitation</em>, pp. 159–177. Wiley.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/9781119700357.ch7">doi:10.1002/9781119700357.ch7</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Chang2020AtmosphereOceanInteractions">
+<h3><a href="https://doi.org/10.1017/9781108610995.004">Atmosphere-Ocean Interactions</a></h3>
+<p class="pub-authors">P. Chang, I. Richter, H. Dijkstra, C. Wieners, <strong>T. A. Myers</strong> (2020).</p>
+<p class="pub-venue">In C. R. Mechoso (ed.), <em>Interacting Climates of Ocean Basins: Observations, Mechanisms, Predictability, and Impacts</em>, pp. 89–119. Cambridge University Press.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1017/9781108610995.004">doi:10.1017/9781108610995.004</a></p>
+</article>
+```
+
+## Preprints {#preprints}
+
+
+```{=html}
+<article class="publication" id="Myers2026StratocumulusPhysicsPreprint">
+<h3><a href="https://doi.org/10.22541/essoar.15006619/v1">Cloud-Controlling Factors Reveal Mean-State Controls and Structural Biases in Earth System Model Stratocumulus Physics</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
+<p class="pub-venue"><span class="preprint-label">Preprint</span> ESS Open Archive.</p>
+<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v1">doi:10.22541/essoar.15006619/v1</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2025CHEESEHEAD19Preprint">
+<h3><a href="https://doi.org/10.22541/essoar.175408228.87136314/v1">Dependence of Boundary Layer Variability and HRRRv4 Model Performance on Cloudiness Over a Mid-latitude Heterogeneous Land Surface: Results from CHEESEHEAD19</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, J. M. Wilczak, B. J. Butterworth, L. Bianco, B. Adler, J. J. Gristey, J. Sedlar, D. D. Turner (2025).</p>
+<p class="pub-venue"><span class="preprint-label">Preprint</span> ESS Open Archive.</p>
+<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.175408228.87136314/v1">doi:10.22541/essoar.175408228.87136314/v1</a></p>
+</article>
+```

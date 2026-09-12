@@ -1,0 +1,242 @@
+---
+title: Curriculum vitae
+description: "Timothy A. Myers: academic appointments, education, research recognition, and downloadable CV."
+---
+
+
+::: {.cv-lead}
+
+Research Associate, Department of Atmospheric Science, University of Wyoming.
+
+[Download full CV (PDF)](files/Myers_academic_CV.pdf){.primary-link}
+
+:::
+
+
+
+## Appointments
+
+
+
+::: {.timeline}
+
+
+::: {.timeline-row}
+
+[2026–present]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### University of Wyoming
+
+Research Associate · Department of Atmospheric Science
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2021–2026]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### University of Colorado Boulder
+
+Research Scientist · CIRES / NOAA Physical Sciences Laboratory
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2018–2021]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Lawrence Livermore National Laboratory
+
+Postdoctoral Staff Scientist
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2015–2018]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### University of California, Los Angeles
+
+Postdoctoral Scholar
+
+:::
+
+
+:::
+
+
+:::
+
+
+
+## Education
+
+
+
+::: {.timeline}
+
+
+::: {.timeline-row}
+
+[2015]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Ph.D., Earth Sciences (Climate Science)
+
+Scripps Institution of Oceanography, University of California, San Diego
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2011]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### M.S., Oceanography (Climate Science)
+
+Scripps Institution of Oceanography, University of California, San Diego
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2009]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### B.S., Atmospheric Science
+
+Cornell University · Magna cum laude
+
+:::
+
+
+:::
+
+
+:::
+
+
+
+## Selected recognition
+
+
+- **2026:** Myers et al. (2021) featured in *Nature Climate Change*'s [15th-anniversary retrospective on influential papers](https://www.nature.com/articles/s41558-026-02605-0).
+- **2024:** I was second author on Zelinka et al. (2020), which *Eos* Editors' Vox highlighted as an [exceptional paper for the 50th anniversary of *Geophysical Research Letters*](https://eos.org/editors-vox/challenges-in-evaluating-climate-sensitivity-from-climate-models).
+- **2022:** Outstanding Reviewer, *Geophysical Research Letters*.
+- **2021:** Outstanding Post-Doc Award, Lawrence Livermore National Laboratory.
+- **2021:** Cover feature, *Nature Climate Change*, for Myers et al. (2021).
+- **2011–2014:** NASA Earth and Space Science Fellowship.
+
+
+## Selected presentations
+
+
+::: {.timeline .selected-presentations}
+
+
+::: {.timeline-row}
+
+[2025]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Marine fog during WFIP3
+
+Oral presentation, [American Meteorological Society Annual Meeting](https://psl.noaa.gov/news/2025/ams25.html), New Orleans.
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2024]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Hub-height wind forecasts over the New York Bight
+
+Oral presentation at the [American Meteorological Society Annual Meeting](https://ams.confex.com/ams/104ANNUAL/webprogram/15ENERGY.html) and poster at the [European Geosciences Union General Assembly](https://doi.org/10.5194/egusphere-egu24-6578).
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
+[2023]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Cloud radiative effects during CHEESEHEAD19
+
+Oral presentation, [American Meteorological Society Annual Meeting](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/418804), Denver.
+
+:::
+
+
+:::
+
+
+:::
+
+
+## Teaching & mentoring
+
+
+Ph.D. committee member for **Akarshna Ayer, Hampton University**.
+
+Co-mentored CIRES/NOAA summer research intern **Allison Van Ormer** ([2022 program](https://gsl.noaa.gov/news/gsls-summer-2022-intern-class/)).
+
+Graduate Teaching Assistant for *The Atmosphere*, Scripps / UC San Diego, Winter 2015.
+
+
+## Contact
+
+
+tmyers12 \[at\] uwyo.edu · [University profile](https://www.uwyo.edu/atsc/directory/research-scientists/myers.html) · [Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-0582-4554)
