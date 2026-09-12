@@ -33,6 +33,7 @@ for name in ['index.html', 'publications.html', 'cv.html']:
     content = (DIST / name).read_text()
     page.feed(content)
     assert '<title>' in content and 'name="viewport"' in content, name
+    assert 'name="description"' in content and 'application/ld+json' in content, name
     assert ':::' not in content and '### ' not in content, name
     for image in page.images:
         assert image.get('alt'), (name, 'Missing image alt text')
@@ -61,4 +62,6 @@ for item in records:
     assert 'https://doi.org/' + item['doi'] in page.references
 assert (DIST / 'files/Myers_academic_CV.pdf').read_bytes().startswith(b'%PDF')
 assert 'timothy-myers-square.png' in (DIST / 'index.html').read_text()
+assert (DIST / 'robots.txt').read_text().strip() == 'Sitemap: https://tamyers87.github.io/sitemap.xml'
+assert '<loc>https://tamyers87.github.io/index.html</loc>' in (DIST / 'sitemap.xml').read_text()
 print(f'PASS: 3 pages; all local links and assets; {len(records)} publication entries and DOI links; PDF and image references.')
