@@ -3,7 +3,6 @@ title: Home
 pagetitle: "Timothy A. Myers | Climate Scientist"
 title-prefix: ""
 description: "Timothy A. Myers is an Associate Research Scientist at the University of Wyoming studying low clouds, cloud feedbacks, climate sensitivity, and atmospheric boundary-layer processes."
-keywords: [Timothy Myers, climate scientist, cloud scientist, low clouds, cloud feedbacks, climate sensitivity, atmospheric boundary layer, Earth system models, satellite observations, University of Wyoming]
 page-layout: full
 title-block-banner: false
 ---

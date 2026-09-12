@@ -1,7 +1,6 @@
 ---
 title: Curriculum vitae
 description: "Academic CV of Timothy A. Myers, Associate Research Scientist in Atmospheric Science at the University of Wyoming."
-keywords: [Timothy Myers CV, atmospheric scientist CV, climate scientist CV, University of Wyoming]
 ---
 
 
