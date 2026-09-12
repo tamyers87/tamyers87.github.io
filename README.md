@@ -37,7 +37,7 @@ No custom domain, paid service, tracking, or contact-form backend is required. S
 ## Content and image sources
 
 - Academic biography and publications: the author's October 2025 CV, verified publication metadata, and updates supplied September 10, 2026.
-- Current title **Research Associate** and February 2026 appointment dates follow the author's instructions.
+- Current title **Associate Research Scientist** and February 2026 appointment dates follow the author's instructions.
 - Ph.D. committee service for **Akarshna Ayer, Hampton University**, supplied by the author.
 - New portrait: `PXL_20260521_171041940.jpg`, supplied by the author for this website.
 - Scientific figure: Myers et al. (2021), Figure 5, *Nature Climate Change* 11, 501–507, https://doi.org/10.1038/s41558-021-01039-0. Extracted from the author-supplied paper, preserving the axes and legend. Figure compares baseline and updated multiple-lines-of-evidence climate-sensitivity distributions; it is not a raw observational time series.

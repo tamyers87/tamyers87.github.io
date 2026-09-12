@@ -1,6 +1,7 @@
 ---
 title: Publications
 description: "Journal articles, book chapters, and preprints by Timothy A. Myers."
+keywords: [Timothy Myers publications, cloud feedbacks, climate sensitivity, low clouds, boundary-layer meteorology, climate variability]
 ---
 
 ::: {.publication-intro}
