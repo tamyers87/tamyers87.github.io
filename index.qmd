@@ -23,12 +23,18 @@ I study how low clouds respond to warming and how their response shapes Earth’
 
 ::: {.profile-links}
 
+::: {.profile-actions}
+
 [View publications](publications.qmd){.primary-link}
 [tmyers12 \[at\] uwyo.edu]{.contact-email}
-[University profile](https://www.uwyo.edu/atsc/directory/research-scientists/myers.html)
-[Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en)
-[ResearchGate](https://www.researchgate.net/profile/Timothy-Myers-3)
-[ORCID](https://orcid.org/0000-0003-0582-4554)
+
+:::
+
+::: {.profile-directory-links}
+
+[University profile](https://www.uwyo.edu/atsc/directory/research-scientists/myers.html) · [Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Timothy-Myers-3) · [ORCID](https://orcid.org/0000-0003-0582-4554)
+
+:::
 
 :::
 
