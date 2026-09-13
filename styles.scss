@@ -67,15 +67,18 @@ h1.hero-title { font-size: clamp(2.6rem, 5vw, 4rem); line-height: 1.08; margin: 
 .media-item h3 a:hover { color: var(--accent); text-decoration: underline; }
 .nav-footer { border-top: 1px solid var(--line); max-width: 1100px; margin: auto; font-size: .8rem; color: var(--muted); padding: 1.5rem 0; }
 .nav-footer a { font-size: .8rem; }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   body.nav-fixed { padding-top: 0; }
   #quarto-header.fixed-top { position: static !important; }
   .navbar { padding: .65rem .25rem; }
-  .navbar-container { display: grid; grid-template-columns: minmax(0, 1fr); gap: .4rem; }
-  .navbar-brand-container { width: 100%; margin: 0 !important; }
+  .navbar-container { display: grid !important; grid-template-areas: "brand" "nav"; grid-template-columns: minmax(0, 1fr); gap: .4rem; }
+  .navbar-brand-container { grid-area: brand; width: 100%; margin: 0 !important; }
   .navbar-brand { margin: 0; font-size: 1rem; }
   .site-brand-field { letter-spacing: .07em; }
-  .navbar-nav { width: 100%; margin-left: 0 !important; border-top: 1px solid var(--line); padding-top: .2rem; }
+  .navbar-nav { grid-area: nav; position: static !important; width: 100%; margin-left: 0 !important; border-top: 1px solid var(--line); padding-top: .2rem; }
+  .quarto-navbar-tools:empty { display: none; }
+}
+@media (max-width: 700px) {
   .navbar .nav-link { padding: .45rem .55rem !important; font-size: .85rem; }
   .nav-footer-right .footer-items { flex-wrap: wrap; justify-content: center; }
   #quarto-document-content { padding-top: 1.7rem; }
