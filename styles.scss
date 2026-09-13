@@ -18,6 +18,9 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 .navbar { border-bottom: 1px solid var(--line); padding: 1.1rem 0; }
 .navbar-container { max-width: 1130px; margin: auto; }
 .navbar-brand { font-size: 1.04rem; font-weight: 650; letter-spacing: -.02em; }
+.navbar-title { display: flex; flex-direction: column; line-height: 1.05; }
+.site-brand-name { display: block; }
+.site-brand-field { display: block; margin-top: .28rem; color: var(--muted); font-size: .67rem; font-weight: 600; letter-spacing: .1em; }
 .navbar .nav-link { font-size: .91rem; padding-left: 1rem !important; padding-right: 1rem !important; }
 .navbar .nav-link.active { text-decoration: underline; text-underline-offset: .45em; }
 #quarto-content { max-width: 1160px; margin: auto; }
@@ -67,6 +70,7 @@ h1.hero-title { font-size: clamp(2.6rem, 5vw, 4rem); line-height: 1.08; margin: 
   .navbar { padding: .65rem .25rem; }
   .navbar-container { flex-wrap: wrap; gap: .3rem; }
   .navbar-brand { margin: 0; font-size: 1rem; }
+  .site-brand-field { letter-spacing: .07em; }
   .navbar .nav-link { padding: .45rem .55rem !important; font-size: .85rem; }
   #quarto-document-content { padding-top: 1.7rem; }
   .home-intro { gap: 1.5rem; margin-bottom: 2rem; }

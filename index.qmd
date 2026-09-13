@@ -13,9 +13,6 @@ title-block-banner: false
 
 ::: {.intro-copy}
 
-[Climate & atmospheric science]{.eyebrow}
-
-
 # Timothy A. Myers {.hero-title}
 
 

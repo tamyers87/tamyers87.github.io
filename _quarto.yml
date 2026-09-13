@@ -21,7 +21,7 @@ website:
   search: false
   navbar:
     background: "#0a1217"
-    title: Timothy A. Myers
+    title: "<span class='site-brand-name'>Timothy A. Myers</span><span class='site-brand-field'>CLIMATE AND ATMOSPHERIC SCIENTIST</span>"
     collapse: false
     right:
       - href: index.qmd
