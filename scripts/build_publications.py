@@ -49,7 +49,7 @@ count_line = f"{counts['article']} journal articles · {counts['chapter']} book 
 
 parts = [f'''---
 title: Publications
-description: "Journal articles, book chapters, and preprints by Timothy A. Myers."
+description-meta: "Journal articles, book chapters, and preprints by Timothy A. Myers."
 ---
 
 ::: {{.publication-intro}}

@@ -1,7 +1,8 @@
 """Add new DOI works from Timothy Myers's public ORCID record.
 
-Existing records are never rewritten. The scheduled GitHub workflow presents
-additions in a pull request so metadata and superseded preprints can be reviewed.
+Existing reviewed records are preserved, except when ORCID supplies a newer
+version of the same versioned preprint DOI. The scheduled GitHub workflow
+presents changes in a pull request for review.
 """
 import html
 import json
@@ -32,6 +33,17 @@ def clean_text(value):
 def normalized(value):
     value = unicodedata.normalize("NFKD", clean_text(value)).casefold()
     return "".join(character for character in value if character.isalnum())
+
+
+def doi_family(doi):
+    """Return a DOI identifier with a trailing preprint version removed."""
+    return re.sub(r"/v\d+$", "", doi.casefold())
+
+
+def doi_version(doi):
+    """Return the integer from a trailing DOI version, when present."""
+    match = re.search(r"/v(\d+)$", doi.casefold())
+    return int(match.group(1)) if match else None
 
 
 def publication_year(metadata, summary):
@@ -135,15 +147,54 @@ records = json.loads(PUBLICATIONS.read_text())
 known_dois = {record["doi"].casefold() for record in records}
 known_titles = {normalized(record["title"]) for record in records}
 existing_keys = {record["key"] for record in records}
+record_by_doi_family = {doi_family(record["doi"]): record for record in records}
 added = []
+revised = []
 
 for doi, summary in orcid_dois():
-    if doi.casefold() in known_dois:
+    doi = doi.casefold()
+    if doi in known_dois:
         continue
     try:
         candidate = record_from_doi(doi, summary, existing_keys)
     except (OSError, ValueError, KeyError) as error:
         print(f"Review manually: {error}")
+        continue
+    existing = record_by_doi_family.get(doi_family(doi))
+    if existing is not None:
+        if existing["kind"] != "preprint" or candidate["kind"] != "preprint":
+            print(f"Review manually: related DOI already exists: {doi}")
+            continue
+        existing_version = doi_version(existing["doi"])
+        candidate_version = doi_version(candidate["doi"])
+        if existing_version is None or candidate_version is None:
+            print(f"Review manually: ambiguous preprint DOI revision: {doi}")
+            continue
+        if candidate_version <= existing_version:
+            continue
+        old_title = normalized(existing["title"])
+        old_doi = existing["doi"].casefold()
+        candidate["source_id"] = existing["source_id"]
+        candidate["key"] = existing["key"]
+        candidate["repository"] = existing.get("repository") or candidate["repository"]
+        candidate["note"] = existing.get("note") or candidate["note"]
+        existing_authors = [
+            normalized(author.get("given", "") + author.get("family", ""))
+            for author in existing["authors"]
+        ]
+        candidate_authors = [
+            normalized(author.get("given", "") + author.get("family", ""))
+            for author in candidate["authors"]
+        ]
+        if candidate_authors == existing_authors:
+            candidate["authors"] = existing["authors"]
+        records[records.index(existing)] = candidate
+        known_dois.discard(old_doi)
+        known_dois.add(candidate["doi"])
+        known_titles.discard(old_title)
+        known_titles.add(normalized(candidate["title"]))
+        record_by_doi_family[doi_family(doi)] = candidate
+        revised.append((old_doi, candidate))
         continue
     if normalized(candidate["title"]) in known_titles:
         continue
@@ -152,11 +203,14 @@ for doi, summary in orcid_dois():
     known_dois.add(candidate["doi"])
     known_titles.add(normalized(candidate["title"]))
     existing_keys.add(candidate["key"])
+    record_by_doi_family[doi_family(doi)] = candidate
 
-if added:
+if added or revised:
     records.sort(key=lambda item: (-item["year"], item["authors"][0]["family"].casefold(), item["title"].casefold()))
     PUBLICATIONS.write_text(json.dumps(records, indent=2, ensure_ascii=False) + "\n")
     for record in added:
         print(f"Added: {record['title']} ({record['doi']})")
+    for old_doi, record in revised:
+        print(f"Revised: {old_doi} -> {record['doi']} ({record['title']})")
 else:
     print("No new DOI works found in ORCID.")
