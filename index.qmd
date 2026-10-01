@@ -80,7 +80,7 @@ How do low clouds respond to warming, and what can observations tell us about Ea
 
 ### Model uncertainty
 
-Which physical processes drive uncertainty in simulated low clouds? [Perturbed-parameter ensembles](https://doi.org/10.22541/essoar.15006619/v1) help identify the model assumptions that matter most.
+Which physical processes drive uncertainty in simulated low clouds? [Perturbed-parameter ensembles](https://doi.org/10.22541/essoar.15006619/v2) help identify the model assumptions that matter most.
 
 :::
 

@@ -387,10 +387,10 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 
 ```{=html}
 <article class="publication" id="Myers2026StratocumulusPhysicsPreprint">
-<h3><a href="https://doi.org/10.22541/essoar.15006619/v1">Cloud-Controlling Factors Reveal Mean-State Controls and Structural Biases in Earth System Model Stratocumulus Physics</a></h3>
+<h3><a href="https://doi.org/10.22541/essoar.15006619/v2">Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity</a></h3>
 <p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
 <p class="pub-venue"><span class="preprint-label">Preprint</span> ESS Open Archive.</p>
-<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v1">doi:10.22541/essoar.15006619/v1</a></p>
+<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v2">doi:10.22541/essoar.15006619/v2</a></p>
 </article>
 ```
 
