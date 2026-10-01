@@ -293,6 +293,48 @@
     "note": "Early online release"
   },
   {
+    "source_id": "orcid_10_22541_essoar_15006619_v2",
+    "key": "Myers2026CloudControllingFactor",
+    "kind": "preprint",
+    "title": "Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Aerenson",
+        "given": "Travis"
+      },
+      {
+        "family": "McCoy",
+        "given": "Daniel Thompson"
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Nugent",
+        "given": "Jacqueline M"
+      },
+      {
+        "family": "Brown",
+        "given": "Hunter Y."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.22541/essoar.15006619/v2",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "article_number": "",
+    "publisher": "Wiley",
+    "repository": "Wiley",
+    "note": "Preprint"
+  },
+  {
     "source_id": "ccf_ppe",
     "key": "Myers2026StratocumulusPhysicsPreprint",
     "kind": "preprint",

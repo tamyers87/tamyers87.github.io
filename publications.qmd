@@ -1,10 +1,10 @@
 ---
 title: Publications
-description-meta: "Journal articles, book chapters, and preprints by Timothy A. Myers."
+description: "Journal articles, book chapters, and preprints by Timothy A. Myers."
 ---
 
 ::: {.publication-intro}
-31 journal articles · 2 book chapters · 2 preprints
+31 journal articles · 2 book chapters · 3 preprints
 
 [Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [BibTeX](files/Myers_all_publications.bib) · [RIS](files/Myers_all_publications.ris)
 
@@ -383,6 +383,16 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 ```
 
 ## Preprints {#preprints}
+
+
+```{=html}
+<article class="publication" id="Myers2026CloudControllingFactor">
+<h3><a href="https://doi.org/10.22541/essoar.15006619/v2">Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
+<p class="pub-venue"><span class="preprint-label">Preprint</span> Wiley.</p>
+<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v2">doi:10.22541/essoar.15006619/v2</a></p>
+</article>
+```
 
 
 ```{=html}
