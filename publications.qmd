@@ -4,7 +4,7 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 ---
 
 ::: {.publication-intro}
-31 journal articles · 2 book chapters · 2 preprints
+32 journal articles · 2 book chapters · 1 preprint
 
 [Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [BibTeX](files/Myers_all_publications.bib) · [RIS](files/Myers_all_publications.ris)
 
@@ -34,6 +34,16 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 <p class="pub-authors">A. Kirincich, R. Krishnamurthy, D. D. Turner, B. Adler, N. Agarwal, L. K. Berg, L. Bianco, N. Bodini, M. C. d&#x27;Hieres, J. T. Farrar, H. J. S. Fernando, B. Gaudet, V. P. Ghate, L. Goldberger, A. O. Gonzalez, E. Hall, E. Hines, G. Hodges, G. V. Iungo, R. Jackson, H. Jiang, A. Kinsella, B. Kosovic, R. Kotamarthi, S. Letizia, S. Lipari, J. K. Lundquist, J. Mirocha, C. Moss, P. Muradyan, <strong>T. Myers</strong>, R. K. Newsom, J. O&#x27;Brien, J. B. Olson, M. Pekour, M. Puccioni, D. Rosencrans, S. Roy, C. Sauvage, J. Sedlar, H. Seo, M. Shams Solari, L. Soldo, S. Stierle, X. Sun, E. J. Thompson, E. Traiger, S. Wharton, J. Wilczak, S. Zippel (2026).</p>
 <p class="pub-venue"><em>Bulletin of the American Meteorological Society</em> · Early online release.</p>
 <p class="pub-doi"><a href="https://doi.org/10.1175/bams-d-25-0201.1">doi:10.1175/bams-d-25-0201.1</a></p>
+</article>
+```
+
+
+```{=html}
+<article class="publication" id="Myers2026StratocumulusSensitivity">
+<h3><a href="https://doi.org/10.1029/2026GL125263">Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
+<p class="pub-venue"><em>Geophysical Research Letters</em>, <strong>53</strong>(20), e2026GL125263.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1029/2026GL125263">doi:10.1029/2026GL125263</a></p>
 </article>
 ```
 
@@ -383,16 +393,6 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 ```
 
 ## Preprints {#preprints}
-
-
-```{=html}
-<article class="publication" id="Myers2026StratocumulusPhysicsPreprint">
-<h3><a href="https://doi.org/10.22541/essoar.15006619/v2">Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity</a></h3>
-<p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
-<p class="pub-venue"><span class="preprint-label">Preprint</span> ESS Open Archive.</p>
-<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v2">doi:10.22541/essoar.15006619/v2</a></p>
-</article>
-```
 
 
 ```{=html}
