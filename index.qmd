@@ -254,8 +254,6 @@ My 2021 paper *Observational Constraints on Low Cloud Feedback Reduce Uncertaint
 
 ### [Challenges in evaluating climate sensitivity from climate models](https://eos.org/editors-vox/challenges-in-evaluating-climate-sensitivity-from-climate-models)
 
-I was second author on *Causes of Higher Climate Sensitivity in CMIP6 Models*, which editors of *Geophysical Research Letters* selected as an exceptional paper for the journal's 50th anniversary.
-
 :::
 
 ::: {.media-item}
