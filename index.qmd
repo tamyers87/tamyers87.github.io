@@ -238,15 +238,25 @@ Selected reporting that features my work on clouds, climate sensitivity, model u
 
 ::: {.media-feature}
 
-[Eos · Editors' Vox · 2024]{.eyebrow}
+[Nature Climate Change · 15th anniversary · 2026]{.eyebrow}
+
+### [Early-career researchers reflect on influential papers](https://www.nature.com/articles/s41558-026-02605-0)
+
+My 2021 paper *Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity* was featured in *Nature Climate Change*'s 15th-anniversary retrospective on influential papers.
+
+:::
+
+::: {.media-grid}
+
+::: {.media-item}
+
+[Eos · GRL 50th anniversary · 2024]{.eyebrow}
 
 ### [Challenges in evaluating climate sensitivity from climate models](https://eos.org/editors-vox/challenges-in-evaluating-climate-sensitivity-from-climate-models)
 
 I was second author on *Causes of Higher Climate Sensitivity in CMIP6 Models*, which editors of *Geophysical Research Letters* selected as an exceptional paper for the journal's 50th anniversary.
 
 :::
-
-::: {.media-grid}
 
 ::: {.media-item}
 
