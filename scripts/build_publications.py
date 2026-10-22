@@ -45,7 +45,14 @@ def publication(record):
 </article>'''
 
 counts = {kind: sum(record['kind'] == kind for record in records) for kind in ('article', 'chapter', 'preprint')}
-count_line = f"{counts['article']} journal articles · {counts['chapter']} book chapters · {counts['preprint']} preprints"
+def counted(count, singular, plural=None):
+    return f"{count} {singular if count == 1 else (plural or singular + 's')}"
+
+count_line = ' · '.join([
+    counted(counts['article'], 'journal article'),
+    counted(counts['chapter'], 'book chapter'),
+    counted(counts['preprint'], 'preprint'),
+])
 
 parts = [f'''---
 title: Publications
