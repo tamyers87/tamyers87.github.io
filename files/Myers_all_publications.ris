@@ -86,8 +86,8 @@ UR  - https://doi.org/10.1175/bams-d-25-0201.1
 N1  - Early online release
 ER  - 
 
-TY  - UNPB
-ID  - Myers2026StratocumulusPhysicsPreprint
+TY  - JOUR
+ID  - Myers2026StratocumulusSensitivity
 AU  - Myers, Timothy A.
 AU  - Aerenson, Travis
 AU  - McCoy, Daniel Thompson
@@ -96,10 +96,12 @@ AU  - Nugent, Jacqueline M.
 AU  - Brown, Hunter Y.
 TI  - Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity
 PY  - 2026
-T2  - ESS Open Archive
-DO  - 10.22541/essoar.15006619/v2
-UR  - https://doi.org/10.22541/essoar.15006619/v2
-N1  - Preprint
+JO  - Geophysical Research Letters
+VL  - 53
+IS  - 20
+SP  - e2026GL125263
+DO  - 10.1029/2026GL125263
+UR  - https://doi.org/10.1029/2026GL125263
 ER  - 
 
 TY  - JOUR
