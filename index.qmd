@@ -80,7 +80,7 @@ How do low clouds respond to warming, and what can observations tell us about Ea
 
 ### Model uncertainty
 
-Which physical processes drive uncertainty in simulated low clouds? [Perturbed-parameter ensembles](https://doi.org/10.22541/essoar.15006619/v2) help identify the model assumptions that matter most.
+Which physical processes drive uncertainty in simulated low clouds? [Perturbed-parameter ensembles](https://doi.org/10.1029/2026GL125263) help identify the model assumptions that matter most.
 
 :::
 
@@ -131,6 +131,20 @@ Across [WFIP3](https://doi.org/10.1175/bams-d-25-0201.1) and [PERiLS/VORTEX-USA]
 ## Selected findings
 
 [All publications](publications.qmd)
+
+:::
+
+
+
+::: {.finding}
+
+[2026 · Geophysical Research Letters]{.eyebrow}
+
+### Model physics shape stratocumulus sensitivity
+
+Across an E3SMv3 perturbed-parameter ensemble, the mean cloud state strongly regulates stratocumulus radiative sensitivity, while rain formation emerges as a key microphysical control. The simulations also reveal a structural bias in the response to surface temperature advection.
+
+[Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity](https://doi.org/10.1029/2026GL125263){.paper-link}
 
 :::
 
