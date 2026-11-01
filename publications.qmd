@@ -4,7 +4,7 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 ---
 
 ::: {.publication-intro}
-32 journal articles · 2 book chapters · 1 preprint
+32 journal articles · 2 book chapters · 2 preprints
 
 [Google Scholar](https://scholar.google.com/citations?user=nzdByNgAAAAJ&hl=en) · [BibTeX](files/Myers_all_publications.bib) · [RIS](files/Myers_all_publications.ris)
 
@@ -393,6 +393,16 @@ description-meta: "Journal articles, book chapters, and preprints by Timothy A. 
 ```
 
 ## Preprints {#preprints}
+
+
+```{=html}
+<article class="publication" id="Myers2026CloudControllingFactors">
+<h3><a href="https://doi.org/10.22541/essoar.15006619/v1">Cloud-Controlling Factors Reveal Mean-State Controls and Structural Biases in Earth System Model Stratocumulus Physics</a></h3>
+<p class="pub-authors"><strong>T. A. Myers</strong>, T. Aerenson, D. T. McCoy, M. D. Zelinka, J. M. Nugent, H. Y. Brown (2026).</p>
+<p class="pub-venue"><span class="preprint-label">Preprint</span> Wiley.</p>
+<p class="pub-doi"><a href="https://doi.org/10.22541/essoar.15006619/v1">doi:10.22541/essoar.15006619/v1</a></p>
+</article>
+```
 
 
 ```{=html}

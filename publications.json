@@ -333,6 +333,48 @@
     "publisher": "American Geophysical Union (AGU)"
   },
   {
+    "source_id": "orcid_10_22541_essoar_15006619_v1",
+    "key": "Myers2026CloudControllingFactors",
+    "kind": "preprint",
+    "title": "Cloud-Controlling Factors Reveal Mean-State Controls and Structural Biases in Earth System Model Stratocumulus Physics",
+    "authors": [
+      {
+        "family": "Myers",
+        "given": "Timothy A."
+      },
+      {
+        "family": "Aerenson",
+        "given": "Travis"
+      },
+      {
+        "family": "McCoy",
+        "given": "Daniel Thompson"
+      },
+      {
+        "family": "Zelinka",
+        "given": "Mark D."
+      },
+      {
+        "family": "Nugent",
+        "given": "Jacqueline M"
+      },
+      {
+        "family": "Brown",
+        "given": "Hunter Y."
+      }
+    ],
+    "year": 2026,
+    "doi": "10.22541/essoar.15006619/v1",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "article_number": "",
+    "publisher": "Wiley",
+    "repository": "Wiley",
+    "note": "Preprint"
+  },
+  {
     "source_id": "cv26",
     "key": "Prabhakaran2026AerosolCloudInteractions",
     "kind": "article",
