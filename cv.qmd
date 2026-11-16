@@ -172,6 +172,23 @@ Cornell University · Magna cum laude
 
 ::: {.timeline-row}
 
+[2026]{.timeline-date}
+
+::: {.timeline-detail}
+
+
+### Same Cloud Change, Different Radiative Impact: Lessons from a Perturbed Parameter Ensemble
+
+Invited presentation, [ECS & Cloud Feedback Virtual Symposium](https://sites.google.com/tamu.edu/ecs-symposium/event53), November 10.
+
+:::
+
+
+:::
+
+
+::: {.timeline-row}
+
 [2025]{.timeline-date}
 
 ::: {.timeline-detail}

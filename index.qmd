@@ -238,6 +238,16 @@ Selected reporting that features my work on clouds, climate sensitivity, model u
 
 ::: {.media-feature}
 
+[University of Wyoming News · 2026]{.eyebrow}
+
+### [UW Study Reveals Why Similar Cloud Changes Can Have Different Climate Effects](https://www.uwyo.edu/news/2026/11/uw-study-reveals-why-similar-cloud-changes-can-have-different-climate-effects.html)
+
+A University of Wyoming feature on my new *Geophysical Research Letters* study explains why similar changes in cloud cover can have different climate effects depending on the clouds' initial reflectivity and highlights a persistent model bias in the response to surface temperature advection.
+
+:::
+
+::: {.media-feature}
+
 [Nature Climate Change · 15th anniversary · 2026]{.eyebrow}
 
 ### [Early-career researchers reflect on influential papers](https://www.nature.com/articles/s41558-026-02605-0)
